@@ -1,0 +1,9 @@
+I
+@C:\workspace\DevShop\Cadastrador\Controllers\PedidoController.csutf-8I
+@C:\workspace\DevShop\Cadastrador\Controllers\ValuesController.csutf-8=
+4C:\workspace\DevShop\Cadastrador\LambdaEntryPoint.csutf-8<
+3C:\workspace\DevShop\Cadastrador\LocalEntryPoint.csutf-84
++C:\workspace\DevShop\Cadastrador\Startup.csutf-8Z
+OC:\workspace\DevShop\Cadastrador\obj\Debug\net6.0\Cadastrador.GlobalUsings.g.csutf-8k
+`C:\workspace\DevShop\Cadastrador\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8X
+MC:\workspace\DevShop\Cadastrador\obj\Debug\net6.0\Cadastrador.AssemblyInfo.csutf-8

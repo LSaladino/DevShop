@@ -1,0 +1,9 @@
+5
+,C:\workspace\DevShop\Compartilhado\Amazon.csutf-8<
+3C:\workspace\DevShop\Compartilhado\Model\Cliente.csutf-8>
+5C:\workspace\DevShop\Compartilhado\Model\Pagamento.csutf-8;
+2C:\workspace\DevShop\Compartilhado\Model\Pedido.csutf-8<
+3C:\workspace\DevShop\Compartilhado\Model\Produto.csutf-8^
+SC:\workspace\DevShop\Compartilhado\obj\Debug\net6.0\Compartilhado.GlobalUsings.g.csutf-8m
+bC:\workspace\DevShop\Compartilhado\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8\
+QC:\workspace\DevShop\Compartilhado\obj\Debug\net6.0\Compartilhado.AssemblyInfo.csutf-8

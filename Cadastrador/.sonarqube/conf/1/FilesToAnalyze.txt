@@ -1,0 +1,15 @@
+﻿C:\workspace\DevShop\Cadastrador\Controllers\PedidoController.cs
+C:\workspace\DevShop\Cadastrador\Controllers\ValuesController.cs
+C:\workspace\DevShop\Cadastrador\LambdaEntryPoint.cs
+C:\workspace\DevShop\Cadastrador\LocalEntryPoint.cs
+C:\workspace\DevShop\Cadastrador\Startup.cs
+C:\workspace\DevShop\Cadastrador\obj\Debug\net6.0\Cadastrador.GlobalUsings.g.cs
+C:\workspace\DevShop\Cadastrador\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\workspace\DevShop\Cadastrador\obj\Debug\net6.0\Cadastrador.AssemblyInfo.cs
+C:\workspace\DevShop\Cadastrador\appsettings.Development.json
+C:\workspace\DevShop\Cadastrador\appsettings.json
+C:\workspace\DevShop\Cadastrador\aws-lambda-tools-defaults.json
+C:\workspace\DevShop\Cadastrador\pedido-exemplo.json
+C:\workspace\DevShop\Cadastrador\Readme.md
+C:\workspace\DevShop\Cadastrador\serverless.template
+C:\workspace\DevShop\Cadastrador\Properties\launchSettings.json

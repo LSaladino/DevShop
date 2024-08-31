@@ -1,0 +1,14 @@
+C:\workspace\DevShop\Compartilhado\bin\Release\net6.0\Compartilhado.deps.json
+C:\workspace\DevShop\Compartilhado\bin\Release\net6.0\Compartilhado.runtimeconfig.json
+C:\workspace\DevShop\Compartilhado\bin\Release\net6.0\Compartilhado.dll
+C:\workspace\DevShop\Compartilhado\bin\Release\net6.0\Compartilhado.pdb
+C:\workspace\DevShop\Compartilhado\obj\Release\net6.0\Compartilhado.csproj.AssemblyReference.cache
+C:\workspace\DevShop\Compartilhado\obj\Release\net6.0\Compartilhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DevShop\Compartilhado\obj\Release\net6.0\Compartilhado.AssemblyInfoInputs.cache
+C:\workspace\DevShop\Compartilhado\obj\Release\net6.0\Compartilhado.AssemblyInfo.cs
+C:\workspace\DevShop\Compartilhado\obj\Release\net6.0\Compartilhado.csproj.CoreCompileInputs.cache
+C:\workspace\DevShop\Compartilhado\obj\Release\net6.0\Compartilhado.dll
+C:\workspace\DevShop\Compartilhado\obj\Release\net6.0\refint\Compartilhado.dll
+C:\workspace\DevShop\Compartilhado\obj\Release\net6.0\Compartilhado.pdb
+C:\workspace\DevShop\Compartilhado\obj\Release\net6.0\Compartilhado.genruntimeconfig.cache
+C:\workspace\DevShop\Compartilhado\obj\Release\net6.0\ref\Compartilhado.dll

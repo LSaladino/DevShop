@@ -1,0 +1,5 @@
+﻿C:\workspace\DevShop\Compartilhado\Amazon.cs
+C:\workspace\DevShop\Compartilhado\Model\Cliente.cs
+C:\workspace\DevShop\Compartilhado\Model\Pagamento.cs
+C:\workspace\DevShop\Compartilhado\Model\Pedido.cs
+C:\workspace\DevShop\Compartilhado\Model\Produto.cs
